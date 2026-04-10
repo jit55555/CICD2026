@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Validcase",
+        "Username": "Admin",
+        "Password": "admin123"
+    },
+    {
+        "Name": "InValidcase",
+        "Username": "Adminss",
+        "Password": "admin123kkk"
+    }
+]
